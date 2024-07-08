@@ -1,6 +1,8 @@
-# monopoly_test
+# Тестовое задание на позицию DataEngeneer(Junior) в [Монополию](https://monopoly.ru/)
 
 ## Test
+<details> 
+<summary>Вопросы с выделенными ответами (свернуть/развернуть)</summary>
 
 **Какой из запросов выведет данные в порядке сначала по убыванию значений col_1, затем по возрастанию значений col_2?**
 - **`SELECT * FROM Table_1 ORDER BY col_1 DESC, col_2 ASC`**
@@ -213,7 +215,7 @@ print(func(3))
 - **`PythonOperator`**
 - DummyOperator
 - BranchPythonOperator
-
+</details>
 
 ## Task1
 
